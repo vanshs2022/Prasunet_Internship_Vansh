@@ -30,7 +30,7 @@ A fully responsive landing page designed to adapt to different screen sizes, pro
 ### How to Run
 1. Clone the repository:
     ```sh
-    git clone https://github.com/vanshs2022/Prasunet_WD_01.git
+    git clone https://github.com/vanshs2022/Prasunet_Internship_Vansh.git
     ```
 2. Navigate to the `responsive-landing-page` directory:
     ```sh
