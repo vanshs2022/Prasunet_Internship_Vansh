@@ -34,7 +34,7 @@ A fully responsive landing page designed to adapt to different screen sizes, pro
     ```
 2. Navigate to the `responsive-landing-page` directory:
     ```sh
-    cd vanshs2022/responsive-landing-page
+    cd vanshs2022/Navbar
     ```
 3. Open `index.html` in your browser.
 
@@ -60,7 +60,7 @@ A digital stopwatch application that allows users to start, stop, pause, and res
 ### How to Run
 1. Navigate to the `stopwatch` directory:
     ```sh
-    cd vanshs2022/stopwatch
+    cd vanshs2022/Stopwatch
     ```
 2. Open `index.html` in your browser.
 
@@ -86,7 +86,7 @@ A weather application that provides real-time weather information for any city u
 ### How to Run
 1. Navigate to the `weather-app` directory:
     ```sh
-    cd vanshs2022/weather-app
+    cd vanshs2022/WeatherApp
     ```
 2. Open `index.html` in your browser.
 
@@ -111,8 +111,9 @@ A classic Tic Tac Toe game where two players can play against each other. The ga
 ### How to Run
 1. Navigate to the `tic-tac-toe` directory:
     ```sh
-    cd vanshs2022/tic-tac-toe
+    cd vanshs2022/tic tac toe
     ```
 2. Open `index.html` in your browser.
 
+## Thank You
 Thank you for checking out my projects!
