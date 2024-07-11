@@ -38,6 +38,9 @@ A fully responsive landing page designed to adapt to different screen sizes, pro
     ```
 3. Open `index.html` in your browser.
 
+### Link to repo
+[Responsive-Landing-Page](https://github.com/vanshs2022/Prasunet_WD_01)
+
 ## Stopwatch
 
 ### Description
@@ -63,6 +66,9 @@ A digital stopwatch application that allows users to start, stop, pause, and res
     cd vanshs2022/Stopwatch
     ```
 2. Open `index.html` in your browser.
+
+### Link to repo
+[Stopwatch](https://github.com/vanshs2022/Prasunet_WD_02)
 
 ## Weather App
 
@@ -90,6 +96,9 @@ A weather application that provides real-time weather information for any city u
     ```
 2. Open `index.html` in your browser.
 
+### Link to repo
+[Weather App](https://github.com/vanshs2022/Prasunet_WD_05)
+
 ## Tic Tac Toe
 
 ### Description
@@ -114,6 +123,9 @@ A classic Tic Tac Toe game where two players can play against each other. The ga
     cd vanshs2022/tic tac toe
     ```
 2. Open `index.html` in your browser.
+
+### Link to repo
+[Tic Tac Toe](https://github.com/vanshs2022/Prasunet_WD_03)
 
 ## Thank You
 Thank you for checking out my projects!
